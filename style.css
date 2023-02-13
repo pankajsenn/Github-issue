@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+}
+
+#btn-div{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+}
+#issues{
+    height: fit-content;
+    min-height: 500px;
+    margin-bottom:10px;
+}
+
+.btn{
+   font-size: 20px;
+   background-color: green;
+   color: white;
+   border: none;
+   outline: none;
+   border-radius: 4px;
+}
+.btn:hover{
+    color: green;
+    background: white;
+}
+#heading{
+    font-size: 40px;
+    color: green;
+    font-weight: 900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+li{
+    font-size: larger;
+    margin: 10px;
+    margin-bottom: 70px;
+}
